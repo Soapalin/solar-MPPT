@@ -15,4 +15,6 @@ If the change in output voltage is greater than a certain value, instead of rese
 A Perturb & Observe that is more precise, checking the value when the duty cycle is decreased AND increased. And moving towards the duty cycle with the highest output power.
 Although it is more precise, it will considerably increase the time to find the maximum power point. 
 
+NOTE: This repository includes a *PWM-master.zip* file, including the library to add on the arduino app for the code to function.
+
 Further information can be found in the report attached in the repository.
